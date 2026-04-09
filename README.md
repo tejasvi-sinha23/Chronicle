@@ -8,7 +8,9 @@ Chronicle is a premium interactive wall calendar built with React and TypeScript
 
 ## Demo
 
-[▶ Watch Demo on YouTube](https://youtu.be/-VhhvzRQl68)
+[![Chronicle Demo](./src/assets/image.png)](https://youtu.be/-VhhvzRQl68)
+
+> Click the screenshot to watch the full demo on YouTube.
 
 ## Features
 
@@ -54,8 +56,8 @@ Chronicle is a premium interactive wall calendar built with React and TypeScript
 ### Installation
 
 ```bash
-git clone https://github.com/tejasvi-sinha23/Mood-tracker-calendar
-cd Mood-tracker-calendar
+git clone https://github.com/tejasvi-sinha23/Chronicle
+cd Chronicle
 npm install
 npm run dev
 ```
