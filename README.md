@@ -4,7 +4,7 @@ Chronicle is a premium interactive wall calendar built with React and TypeScript
 
 ## Live Demo
 
-[Live Demo](https://chronicle-ashy.vercel.app/)
+[Vercel Link](https://chronicle-ashy.vercel.app/)
 
 ## Demo
 
